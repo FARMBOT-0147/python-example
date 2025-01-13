@@ -1,6 +1,6 @@
 ####################################################################################################################
 
-##                            declares all of the variables and functions                                           #
+#                            declares all of the variables and functions                                           #
 
 userTries = 0
 userTries = int(userTries)
